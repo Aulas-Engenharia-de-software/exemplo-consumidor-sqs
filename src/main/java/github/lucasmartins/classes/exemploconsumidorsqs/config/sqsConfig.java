@@ -7,7 +7,7 @@ import software.amazon.awssdk.regions.Region;
 import software.amazon.awssdk.services.sqs.SqsAsyncClient;
 
 @Configuration
-public class SQSConfig {
+public class sqsConfig {
 
     @Bean
     @Primary
