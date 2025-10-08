@@ -26,7 +26,7 @@
         <dependencies>
             <dependency>
                 <groupId>io.awspring.cloud</groupId>
-                <artifactId>spring-cloud-aws</artifactId>
+                <artifactId>spring-cloud-aws-dependencies</artifactId>
                 <version>3.1.0</version>
                 <type>pom</type>
                 <scope>import</scope>
